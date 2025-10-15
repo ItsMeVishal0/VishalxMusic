@@ -14,7 +14,7 @@ API_ID = int(os.getenv("API_ID"))
 API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
-OWNER_USERNAME = os.getenv("OWNER_USERNAME", "WTF_WhyMeeh")
+OWNER_USERNAME = os.getenv("OWNER_USERNAME", "Its_me_Vishall")
 BOT_USERNAME = os.getenv("BOT_USERNAME", "VishalxMusicBot")
 
 
@@ -28,16 +28,16 @@ HEROKU_API_KEY = os.getenv("HEROKU_API_KEY")
 
 
 
-UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/NoxxOP/VishalMusic")
+UPSTREAM_REPO = os.getenv("UPSTREAM_REPO", "https://github.com/ItsMeVishal0/VishalxMusic")
 UPSTREAM_BRANCH = os.getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = os.getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/VishalBots")
-SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/VishalBotSupport")
+SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/+HdAUa8MAzps2ODFl")
+SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/ItsMeVishalSupport")
 INSTAGRAM = os.getenv("INSTAGRAM", "https://instagram.com/yaduwanshi_nand")
-YOUTUBE = os.getenv("YOUTUBE", "https://youtube.com/@NandEditz")
-GITHUB = os.getenv("GITHUB", "https://github.com/NoxxOP")
-DONATE = os.getenv("DONATE", "https://t.me/VishalBots/91")
+YOUTUBE = os.getenv("YOUTUBE", "https://github.com/ItsMeVishal0/VishalxMusic")
+GITHUB = os.getenv("GITHUB", "https://github.com/ItsMeVishal0/VishalxMusic")
+DONATE = os.getenv("DONATE", "https://github.com/ItsMeVishal0/VishalxMusic")
 PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
 
 
@@ -65,18 +65,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 
 
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/7q8bfg.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/eehxb4.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/eehxb4.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/eehxb4.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/eehxb4.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/53szdj.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/53szdj.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/53szdj.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/53szdj.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/53szdj.jpg"
 
 
 BANNED_USERS = filters.user()
